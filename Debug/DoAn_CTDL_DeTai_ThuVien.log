@@ -1,0 +1,23 @@
+﻿  main.cpp
+d:\ctdl_thuvien\doan_ctdl_detai_thuvien\mylib.h(47): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\ctdl_thuvien\doan_ctdl_detai_thuvien\mylib.h(58): warning C4018: '<': signed/unsigned mismatch
+d:\ctdl_thuvien\doan_ctdl_detai_thuvien\mylib.h(100): warning C4018: '<': signed/unsigned mismatch
+d:\ctdl_thuvien\doan_ctdl_detai_thuvien\mylib.h(116): warning C4018: '<': signed/unsigned mismatch
+d:\ctdl_thuvien\doan_ctdl_detai_thuvien\console.h(185): warning C4309: 'initializing': truncation of constant value
+d:\ctdl_thuvien\doan_ctdl_detai_thuvien\console.h(295): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\ctdl_thuvien\doan_ctdl_detai_thuvien\console.h(306): warning C4018: '<': signed/unsigned mismatch
+d:\ctdl_thuvien\doan_ctdl_detai_thuvien\giaodiensach.h(349): warning C4101: 'soluong': unreferenced local variable
+d:\ctdl_thuvien\doan_ctdl_detai_thuvien\giaodiensach.h(349): warning C4101: 'sotrang': unreferenced local variable
+d:\ctdl_thuvien\doan_ctdl_detai_thuvien\giaodiensach.h(349): warning C4101: 'namxb': unreferenced local variable
+d:\ctdl_thuvien\doan_ctdl_detai_thuvien\giaodiensach.h(732): warning C4551: function call missing argument list
+d:\ctdl_thuvien\doan_ctdl_detai_thuvien\giaodiensach.h(853): warning C4551: function call missing argument list
+d:\ctdl_thuvien\doan_ctdl_detai_thuvien\giaodiensach.h(846): warning C4102: 'start': unreferenced label
+d:\ctdl_thuvien\doan_ctdl_detai_thuvien\giaodiensach.h(1790): warning C4102: 'phai': unreferenced label
+d:\ctdl_thuvien\doan_ctdl_detai_thuvien\giaodiensach.h(2422): warning C4553: '==': result of expression not used; did you intend '='?
+d:\ctdl_thuvien\doan_ctdl_detai_thuvien\giaodiensach.h(2428): warning C4553: '==': result of expression not used; did you intend '='?
+d:\ctdl_thuvien\doan_ctdl_detai_thuvien\giaodiensach.h(2518): warning C4101: 'p': unreferenced local variable
+d:\ctdl_thuvien\doan_ctdl_detai_thuvien\giaodiensach.h(3425): warning C4102: 'nhapsach': unreferenced label
+d:\ctdl_thuvien\doan_ctdl_detai_thuvien\giaodiensach.h(3627): warning C4102: 'matsach': unreferenced label
+d:\ctdl_thuvien\doan_ctdl_detai_thuvien\giaodiensach.h(3605): warning C4101: 'masachtam': unreferenced local variable
+d:\ctdl_thuvien\doan_ctdl_detai_thuvien\giaodiensach.h(118): warning C4172: returning address of local variable or temporary: res
+  DoAn_CTDL_DeTai_ThuVien.vcxproj -> D:\CTDL_THUVIEN\DoAn_CTDL_DeTai_ThuVien\Debug\DoAn_CTDL_DeTai_ThuVien.exe

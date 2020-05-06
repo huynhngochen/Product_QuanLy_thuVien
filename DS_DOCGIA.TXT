@@ -1,0 +1,15 @@
+14
+1429,Nguyen Van,Hau,Nam,1
+1482,Dang Nhat,Duy,Nam,1
+2126,Nguyen Thi,Diem,Nu,1
+2265,Nguyen Thi,Lan,Nu,1
+2896,Duong Phuong,Dung,Nu,1
+3542,Nguyen Thi Linh,Chi,Nu,1
+5000,Huynh Ngoc,Hen,Nu,1
+5385,Trinh Thanh,Binh,Nu,1
+6006,Pham Huu,Cuong,Nam,1
+6325,Vo Minh,Duc,Nam,1
+6329,Nguyen Tien,Dat,Nam,1
+6925,Nguyen Chanh,Dat,Nam,1
+7668,Nguyen Van,Hung,Nam,1
+9694,Nguyen Quang,Hieu,Nam,1

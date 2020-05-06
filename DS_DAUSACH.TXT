@@ -1,0 +1,14 @@
+13
+CTDL,Cau Truc Du Lieu,Luu Nguyen Ky Thu,Lap Trinh,2000,150,10,3
+CSDL,Co So Du Lieu,Ky Thu,Lap Trinh,2000,100,5,2
+GT,Giai Tich,Thay Tam,Toan Hoc,2015,100,10,0
+KTDH,Ky Thuat Do Hoa,Duong Thanh Thao,Thiet Ke,2013,130,10,2
+LTM,Lap Trinh Mang,Luu Nguyen Ky Thu,Lap Trinh,2013,150,10,1
+LTW,Lap Trinh Web,Thay Tru,Lap Trinh,1998,100,6,0
+MLN,Mac Lenin,Co Hanh,Triet Hoc,2011,200,10,2
+NNC,Ngon Ngu C++,Nguyen Van Sau,Lap Trinh,2002,100,10,3
+THCS,Tin Hoc Co So 2,Nguyen Van Sau,Lap Trinh,2015,120,10,1
+TRR,Toan Roi Rac,Huynh Trong Thua,Toan Hoc,2000,120,10,2
+TTNT,Tri Tue Nhan Tao,Nguyen Ngoc Duy,Tu Duy,2012,145,10,1
+TTHCM,Tu Tuong Ho Chi Minh,Co Hanh,Triet Hoc,2010,200,10,2
+XLA,Xu Ly Anh,Tan Hanh,Thiet Ke,2010,150,10,2
